@@ -1,0 +1,9 @@
+.vagrant/
+Vagrantfile
+.tern-project
+.vscode
+ubuntu*
+/yelp/node_modules/*
+/yelp/.vscode
+/blog/node_modules/*
+/blog/.vscode
